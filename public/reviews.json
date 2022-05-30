@@ -1,0 +1,46 @@
+[
+    {
+      "id": "1",
+      "quote": " bigger display makes it the most practical version of this smartwatch yet. And we're not just saying that because we love the QWERTY keyboard.",
+      "name": "Mr Rahat hosen",
+      "ratings": 4.8,
+      "img": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1hbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": "2",
+      "quote": "Great design, solid performance and top-tier tech make the Kia EV6 hard to resist. Here’s our full review.",
+      "name": "Purnoboti",
+      "ratings": 4.3,
+      "img": "https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d29tYW58ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": "3",
+      "quote": "The Microsoft Surface Pro  is the next generation of Surface tablets and is ideal for everyday tasks",
+      "name": "MD Fayes hosen",
+      "ratings": 4.5,
+      "img": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": "4",
+      "quote": "Apple's MacBook Pro 2021 (16-inch) is an across-the-board improvement that delivers best-in-class performance, especially with M1 Max",
+      "name": "Saddam Sarder",
+      "ratings": 4.8,
+      "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": "5",
+      "quote": "Windows 11 refines what’s good about Windows 10 without changing too much — for better and for worse",
+      "name": "Lamia kathun",
+      "ratings": 4.1,
+      "img": "https://images.unsplash.com/photo-1605406575497-015ab0d21b9b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d29tYW58ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60"
+    },
+    {
+      "id": "6",
+      "quote": "The iPhone 13’s brighter display, longer battery life and powerful cameras make it the best new iPhone value",
+      "name": "Zenifer Mendez",
+      "ratings": 4.7,
+      "img": "https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDh8fHdvbWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+    }
+  
+  ]
+  
