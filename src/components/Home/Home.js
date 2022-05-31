@@ -14,10 +14,8 @@ const Home = () => {
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className="title-font text-4xl sm:text-4xl t mb-4 font-medium text-gray-900">
               Your next Laptop
-              <br className="hidden lg:inline-block" />
-              <small className="text-purple-600 text-5xl mt-3">
-                Your best Laptop
-              </small>
+              <br className="" />
+              <span className="text-blue-500">Your Best laptop</span>
             </h1>
             <p className="mb-8 leading-relaxed">
               The MacBook Pro with M1 (from $1,299) is a laptop with an
@@ -57,7 +55,7 @@ const Home = () => {
       <div className="mb-12">
         <Link to="/review">
           <button className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-            see all review
+            See all review
           </button>
         </Link>
       </div>

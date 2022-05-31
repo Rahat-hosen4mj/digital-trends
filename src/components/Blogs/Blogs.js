@@ -2,14 +2,13 @@ import React from "react";
 
 const Blogs = () => {
   return (
-    <section className="text-gray-600 body-font overflow-hidden">
-      <div className="container px-5 py-24 mx-auto">
-        <div className="flex flex-wrap -m-12">
-          <div className="p-12 md:w-1/2 flex flex-col items-center">
-            <h2 className="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-8">
-              The Purpose of Context API
+
+    <div className="grid grid-cols-1 md:grid-cols-2 px-2">
+    <div className="px-3 mx-3 mt-12">
+    <h2 className="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-8">
+              What is the  Purpose of Context API ..?
             </h2>
-            <p className="leading-relaxed mx-8">
+            <p className="text-zinc-700 mx-8">
               <b>Answer : </b>The Context API is a React structure that enables
               you to exchange unique details and assists in solving
               prop-drilling from all levels of your application. <br />
@@ -25,12 +24,12 @@ const Blogs = () => {
               like Redux. The Context API has actually always been there but was
               considered experimental.
             </p>
-          </div>
-          <div className="p-12 md:w-1/2 flex flex-col items-center">
-            <h2 className="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-6 text-center">
-            What is semantic tag
+    </div>
+    <div className="ml-5 mt-5 p-5">
+    <h2 className="sm:text-3xl text-2xl title-font font-medium text-gray-900 mt-4 mb-6 text-center">
+            What is semantic tag ?
             </h2>
-            <p className="leading-relaxed mx-8">
+            <p className="text-zinc-800 mx-8">
               Semantic tags clearly define the purpose of the HTML element. It
               also describes the type of content that the element should
               contain. For example, One of the most important features of HTML5
@@ -47,10 +46,8 @@ const Blogs = () => {
               parse the webpage correctly and find accurate information. Thus,
               helping search engines to correctly index the page.
             </p>
-          </div>
-        </div>
-      </div>
-    </section>
+    </div>
+  </div>
   );
 };
 
